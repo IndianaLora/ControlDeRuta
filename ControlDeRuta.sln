@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlDeRuta", "ControlDeRuta\ControlDeRuta.csproj", "{CA102A0F-46A4-4482-B707-2501F7F75ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA102A0F-46A4-4482-B707-2501F7F75ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA102A0F-46A4-4482-B707-2501F7F75ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA102A0F-46A4-4482-B707-2501F7F75ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA102A0F-46A4-4482-B707-2501F7F75ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8D855B-F321-4D1A-94C2-F70BD2FBC132}
+	EndGlobalSection
+EndGlobal
