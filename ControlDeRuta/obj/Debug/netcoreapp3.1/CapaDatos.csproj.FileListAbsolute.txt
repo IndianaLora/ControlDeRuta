@@ -1,0 +1,4 @@
+C:\Users\indiana\Downloads\DeveloperLoading\Rompiendo\c#\ControlDeRuta\ControlDeRuta\obj\Debug\netcoreapp3.1\CapaDatos.csprojAssemblyReference.cache
+C:\Users\indiana\Downloads\DeveloperLoading\Rompiendo\c#\ControlDeRuta\ControlDeRuta\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\indiana\Downloads\DeveloperLoading\Rompiendo\c#\ControlDeRuta\ControlDeRuta\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\indiana\Downloads\DeveloperLoading\Rompiendo\c#\ControlDeRuta\ControlDeRuta\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache

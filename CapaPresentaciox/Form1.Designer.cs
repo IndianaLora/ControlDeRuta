@@ -1,4 +1,4 @@
-﻿namespace ControlDeRuta
+﻿namespace CapaPresentaciox
 {
     partial class Form1
     {

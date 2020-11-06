@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\indiana\\Downloads\\DeveloperLoading\\Rompiendo\\c#\\ControlDeRuta\\ControlDeRuta\\CapaPresentaciox.csproj",
-      "projectName": "CapaPresentaciox",
-      "projectPath": "C:\\Users\\indiana\\Downloads\\DeveloperLoading\\Rompiendo\\c#\\ControlDeRuta\\ControlDeRuta\\CapaPresentaciox.csproj",
+      "projectUniqueName": "C:\\Users\\indiana\\Downloads\\DeveloperLoading\\Rompiendo\\c#\\ControlDeRuta\\CapaPresentaciox\\CapaPresentacion.csproj",
+      "projectName": "CapaPresentacion",
+      "projectPath": "C:\\Users\\indiana\\Downloads\\DeveloperLoading\\Rompiendo\\c#\\ControlDeRuta\\CapaPresentaciox\\CapaPresentacion.csproj",
       "packagesPath": "C:\\Users\\indiana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\indiana\\Downloads\\DeveloperLoading\\Rompiendo\\c#\\ControlDeRuta\\ControlDeRuta\\obj\\",
+      "outputPath": "C:\\Users\\indiana\\Downloads\\DeveloperLoading\\Rompiendo\\c#\\ControlDeRuta\\CapaPresentaciox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\indiana\\AppData\\Roaming\\NuGet\\NuGet.Config",
